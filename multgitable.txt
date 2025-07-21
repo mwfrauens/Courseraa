@@ -1,0 +1,9 @@
+Employeetable  AND Jobstable appear to be loaded right.
+
+HOWEVER THEY DON'T ALWAYS HAVE COLUMN HEADERS.  wHY?  AND I hAVE NOT SEEN HEADERS FORMATED AS IN THE ANSWERS PROVIDED.
+
+There is the first query using both tables.
+
+There is also the associated failer of the first query.
+
+When should the table be kn CAPS?  It is never capped in the class instruction.
